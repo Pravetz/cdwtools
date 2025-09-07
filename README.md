@@ -4,7 +4,7 @@ Before using any of these applications, please install required dependencies fro
 `pip install -r requirements.txt`
 
 # Pixelano (pixelano.py)
-Pixel Annotator (or simply "Pixelano") is a simple utility which allows user to graphically annotate images and prouces PASCAL VOC-annotated dataset from input data.
+Pixel Annotator (or simply "Pixelano") is a simple utility which allows user to graphically annotate images and produces PASCAL VOC-annotated dataset from input data.
 It has simple CLI:
 ```
 Usage: pixelano.py <parameters>
