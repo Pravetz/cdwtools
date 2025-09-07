@@ -50,7 +50,7 @@ Application uses a simple, home-grown MLC(Model Loader Config) language to speci
 
 To provide a fragment classifier(or a cascade of such) to QT App one needs to create a text file with `.mlc` extension and fill it with data as in examples below. 
 
-QT App has built-in capabilities to load ResNet50 binary classifier ensembles("cascades"), trained using console application in `ResNet50` branch.
+QT App has built-in capabilities to load ResNet50 binary classifier ensembles("cascades").
 
 To load them, one writes following in his new `.mlc` file:
 ```
